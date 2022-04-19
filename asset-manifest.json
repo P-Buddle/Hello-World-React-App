@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hello-World-React-App/static/css/main.49bc330d.css",
+    "main.js": "/Hello-World-React-App/static/js/main.487dcfa1.js",
+    "static/js/787.f3029646.chunk.js": "/Hello-World-React-App/static/js/787.f3029646.chunk.js",
+    "index.html": "/Hello-World-React-App/index.html",
+    "main.49bc330d.css.map": "/Hello-World-React-App/static/css/main.49bc330d.css.map",
+    "main.487dcfa1.js.map": "/Hello-World-React-App/static/js/main.487dcfa1.js.map",
+    "787.f3029646.chunk.js.map": "/Hello-World-React-App/static/js/787.f3029646.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49bc330d.css",
+    "static/js/main.487dcfa1.js"
+  ]
+}
