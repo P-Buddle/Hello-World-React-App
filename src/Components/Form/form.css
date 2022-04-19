@@ -1,0 +1,33 @@
+.form__container {
+    text-align: center;
+    background-color: var(--color-bg-vari);
+    padding-top: 75px;
+    width: 300px;
+    height: 225px;
+    border-radius: 100%;
+}
+
+.reply__container {
+    text-align: center;
+    padding-top: 1rem;
+}
+
+section {
+    margin-top: 3rem;
+}
+
+label {
+    display: block;
+    padding: 0.1rem;
+}
+
+input {
+    margin-right: 0.7rem;
+    padding: 0.3rem;
+}
+
+.btn {
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+}
