@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hello-World-React-App/static/css/main.49bc330d.css",
-    "main.js": "/Hello-World-React-App/static/js/main.487dcfa1.js",
-    "static/js/787.f3029646.chunk.js": "/Hello-World-React-App/static/js/787.f3029646.chunk.js",
-    "index.html": "/Hello-World-React-App/index.html",
-    "main.49bc330d.css.map": "/Hello-World-React-App/static/css/main.49bc330d.css.map",
-    "main.487dcfa1.js.map": "/Hello-World-React-App/static/js/main.487dcfa1.js.map",
-    "787.f3029646.chunk.js.map": "/Hello-World-React-App/static/js/787.f3029646.chunk.js.map"
+    "main.css": "/hello-world-react/static/css/main.49bc330d.css",
+    "main.js": "/hello-world-react/static/js/main.9b574b13.js",
+    "static/js/787.f3029646.chunk.js": "/hello-world-react/static/js/787.f3029646.chunk.js",
+    "index.html": "/hello-world-react/index.html",
+    "main.49bc330d.css.map": "/hello-world-react/static/css/main.49bc330d.css.map",
+    "main.9b574b13.js.map": "/hello-world-react/static/js/main.9b574b13.js.map",
+    "787.f3029646.chunk.js.map": "/hello-world-react/static/js/787.f3029646.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49bc330d.css",
-    "static/js/main.487dcfa1.js"
+    "static/js/main.9b574b13.js"
   ]
 }
