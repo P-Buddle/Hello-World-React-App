@@ -1,16 +1,21 @@
 import React from 'react'
 import './form.css'
 import { useState } from 'react'
+import { useSpeechSynthesis } from 'react-speech-kit'
+
 
 const Form = () => {
 
     const [show, setShow]=useState(false)
     const [fullName, setfullName]=useState('');
+    const { speak } = useSpeechSynthesis();
+
+
 
     const handleSubmit = (e) => {
         e.preventDefault();
         setShow(true)
-        
+        speak({ text: 'Hello,' + fullName })
     }
     
     return (
@@ -25,7 +30,7 @@ const Form = () => {
                     autoFocus
                     required
                     value={fullName}
-                    maxLength="15"
+                    maxLength="20"
                     onChange={(e) => setfullName(e.target.value)} 
                 />
                 <button className='btn'>Click Me</button>
@@ -36,6 +41,7 @@ const Form = () => {
             {
                 show? <h1>Hello {fullName}</h1>:null
             }
+
         </div>
     </section>
   )
