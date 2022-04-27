@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hello-world-react/static/css/main.49bc330d.css",
-    "main.js": "/hello-world-react/static/js/main.479c1590.js",
+    "main.css": "/hello-world-react/static/css/main.cfd3a2dd.css",
+    "main.js": "/hello-world-react/static/js/main.a32f0327.js",
     "static/js/787.f3029646.chunk.js": "/hello-world-react/static/js/787.f3029646.chunk.js",
     "index.html": "/hello-world-react/index.html",
-    "main.49bc330d.css.map": "/hello-world-react/static/css/main.49bc330d.css.map",
-    "main.479c1590.js.map": "/hello-world-react/static/js/main.479c1590.js.map",
+    "main.cfd3a2dd.css.map": "/hello-world-react/static/css/main.cfd3a2dd.css.map",
+    "main.a32f0327.js.map": "/hello-world-react/static/js/main.a32f0327.js.map",
     "787.f3029646.chunk.js.map": "/hello-world-react/static/js/787.f3029646.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49bc330d.css",
-    "static/js/main.479c1590.js"
+    "static/css/main.cfd3a2dd.css",
+    "static/js/main.a32f0327.js"
   ]
 }
